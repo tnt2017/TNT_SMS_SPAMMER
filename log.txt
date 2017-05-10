@@ -1,0 +1,2 @@
+Log
+Unable to open com port (win error code: 2)
